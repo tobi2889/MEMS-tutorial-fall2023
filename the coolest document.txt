@@ -1,0 +1,3 @@
+def play_games(num_games, model=None)
+
+if you know, you know
